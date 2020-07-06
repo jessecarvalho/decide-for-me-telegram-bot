@@ -1,5 +1,6 @@
-# Bot decida por mim
-###endereço do bot: @DecidaPorMimBot
+# DECIDA POR MIM BOT
+Ao enviar uma mensagem ao bot via telegram ele te responderá se você deve ou não fazer determinada coisa.
 
-##Objetivo do projeto:
-Aprender a desenvolver bots para telegram utilizando-se do Python
+## FEATURES
+- Uso de API do Telegram.
+- Programação basica.
